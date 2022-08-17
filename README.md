@@ -1,5 +1,5 @@
 # Exrtra-Credit-
-Program to find Greatest Common Denominator through Recursion Method
+- Program to find Greatest Common Denominator through Recursion Method
 
 The program shows that code I used to find the GCD of 8 numbers.First, I took  the required variables:- size, arr, and result. The size variable will hold the number of elements in the array, the arr variable represents the array, and the result variable will hold the final result.
 
