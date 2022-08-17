@@ -1,0 +1,13 @@
+run:
+Enter total numbers: 8
+Enter numbers: 
+40
+90
+86
+48
+20
+66
+96
+72
+GCD = 2
+BUILD SUCCESSFUL (total time: 56 seconds)
